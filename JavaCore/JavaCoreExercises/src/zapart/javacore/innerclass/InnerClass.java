@@ -17,6 +17,9 @@ public class InnerClass
 		
 		TimerEx timer4 = new TimerEx( interval );
 		timer4.start();
+		
+		TimerEx timer5 = new TimerEx( interval );
+		timer5.start();
 	}
 
 }
